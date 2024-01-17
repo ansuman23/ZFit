@@ -149,16 +149,4 @@ If you have a contribution in mind, please check out our `Contribution Guide` fo
 
 &nbsp;
 
-## 👨🏻‍💻 Contributors
 
-<div align="center">
-
-<p>
-  
-[@Ansuman](https://github.com/ansuman23) &nbsp; [@Sidharth](https://github.com/prefonixs) &nbsp; [@Shreyas](https://github.com/Shreyas-Swain-10) &nbsp; [@Tanuj](https://github.com/Tanuj2324) &nbsp; [@Jangyaseni](https://github.com/Jangyaseni666) {_Team Leader_}
-  
-</p>
-
-Thanks You !
-
-</div>
